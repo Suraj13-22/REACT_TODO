@@ -1,0 +1,18 @@
+.about {
+  max-width: 600px;
+  margin: 50px auto;
+  text-align: center;
+  padding: 20px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.about h1 {
+  color: #007bff;
+}
+
+.about p {
+  font-size: 1rem;
+  color: #666;
+}
